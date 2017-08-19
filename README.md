@@ -25,3 +25,5 @@ Visit https://alicespyglass-30743.firebaseapp.com/ in browser
 [Awesome Angular](https://github.com/AngularClass/awesome-angular#site-templates)
 
 [Angular file structure for firebase](https://coryrylan.com/blog/deploy-angular-cli-apps-to-firebase)
+
+[HTML template from trendy theme](http://trendytheme.net/)
