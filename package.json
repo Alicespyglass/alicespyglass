@@ -30,10 +30,10 @@
     "zone.js": "^0.7.2"
   },
   "devDependencies": {
+    "@angular/cli": "^1.3.1",
     "@angular/compiler-cli": "^4.3.2",
     "@types/jasmine": "2.5.38",
     "@types/node": "^6.0.85",
-    "angular-cli": "1.0.0-beta.28.3",
     "bootstrap": "^4.0.0-alpha.6",
     "bootstrap-loader": "^2.1.0",
     "codelyzer": "~2.0.0-beta.1",
@@ -49,6 +49,7 @@
     "tether": "^1.4.0",
     "ts-node": "1.2.1",
     "tslint": "^4.3.0",
-    "typescript": "^2.4.2"
+    "typescript": "^2.4.2",
+    "webpack": "^3.5.5"
   }
 }

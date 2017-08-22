@@ -7,10 +7,12 @@ import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 import { AppComponent } from './app.component';
 import { routing }      from './app.routing';
+import { VideoSectionComponent } from './video-section/video-section.component';
 
 @NgModule({
   declarations: [
     AppComponent,
+    VideoSectionComponent,
   ],
   imports: [
     NgbModule.forRoot(),
